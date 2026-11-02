@@ -15,14 +15,10 @@ M.Sc. Software Systems student with hands-on experience developing and deploying
 
 **Selected work**
 
-<a href="https://github.com/Niranjan-SE/PriceWise"><img src="./assets/projects.png" alt="PriceWise, EchoChamber and Smart Leads" width="100%" /></a>
-
 <p align="center">
-  <a href="https://github.com/Niranjan-SE/PriceWise">PriceWise</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Niranjan-SE/Echo-Chamber">EchoChamber</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Niranjan-SE/Smart-Leads-Dashboard">Smart Leads</a>
+  <a href="https://github.com/Niranjan-SE/PriceWise"><img src="./assets/card-pricewise.png" alt="PriceWise" width="32%" /></a>
+  <a href="https://github.com/Niranjan-SE/Echo-Chamber"><img src="./assets/card-echo.png" alt="EchoChamber" width="32%" /></a>
+  <a href="https://github.com/Niranjan-SE/Smart-Leads-Dashboard"><img src="./assets/card-leads.png" alt="Smart Leads" width="32%" /></a>
 </p>
 
 **Stack**
