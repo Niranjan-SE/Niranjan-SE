@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" role="img" aria-label="PriceWise">
+  <rect width="1200" height="168" rx="18" fill="#0F2744"/>
+  <rect x="0" y="0" width="8" height="168" fill="#38BDF8"/>
+  <circle cx="1128" cy="84" r="54" fill="#38BDF8" fill-opacity="0.08"/>
+  <path d="M1108 67h28v8h-28zM1108 83h40v8h-40zM1108 99h22v8h-22z" fill="#38BDF8" fill-opacity="0.7"/>
+  <text x="36" y="44" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#38BDF8" letter-spacing="3">FEATURED</text>
+  <text x="36" y="78" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#F8FAFC">PriceWise</text>
+  <text x="36" y="108" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" fill="#B8C7D9">Compares prices from Amazon and 10+ Indian retailers, stores history, and surfaces buy advice.</text>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">
+    <rect x="36" y="126" width="64" height="24" rx="12" fill="#163A5F"/>
+    <text x="48" y="142">Next.js</text>
+    <rect x="108" y="126" width="62" height="24" rx="12" fill="#163A5F"/>
+    <text x="119" y="142">FastAPI</text>
+    <rect x="178" y="126" width="84" height="24" rx="12" fill="#163A5F"/>
+    <text x="189" y="142">PostgreSQL</text>
+    <rect x="270" y="126" width="62" height="24" rx="12" fill="#163A5F"/>
+    <text x="283" y="142">Gemini</text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" role="img" aria-label="EchoChamber">
+  <rect width="1200" height="168" rx="18" fill="#0F2744"/>
+  <rect x="0" y="0" width="8" height="168" fill="#5EEAD4"/>
+  <circle cx="1128" cy="84" r="54" fill="#5EEAD4" fill-opacity="0.08"/>
+  <circle cx="1128" cy="84" r="28" fill="none" stroke="#5EEAD4" stroke-width="3" stroke-opacity="0.7"/>
+  <circle cx="1128" cy="84" r="16" fill="none" stroke="#5EEAD4" stroke-width="2" stroke-opacity="0.5"/>
+  <circle cx="1128" cy="84" r="6" fill="#5EEAD4"/>
+  <text x="36" y="44" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#5EEAD4" letter-spacing="3">FEATURED</text>
+  <text x="36" y="78" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#F8FAFC">EchoChamber</text>
+  <text x="36" y="108" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" fill="#B8C7D9">Ingests Indian news RSS feeds, scores echo-chamber intensity, and supports voting and filters.</text>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">
+    <rect x="36" y="126" width="52" height="24" rx="12" fill="#163A5F"/>
+    <text x="49" y="142">React</text>
+    <rect x="96" y="126" width="64" height="24" rx="12" fill="#163A5F"/>
+    <text x="107" y="142">Node.js</text>
+    <rect x="168" y="126" width="62" height="24" rx="12" fill="#163A5F"/>
+    <text x="179" y="142">Express</text>
+    <rect x="238" y="126" width="84" height="24" rx="12" fill="#163A5F"/>
+    <text x="249" y="142">PostgreSQL</text>
+  </g>
+</svg>
