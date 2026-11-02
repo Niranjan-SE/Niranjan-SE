@@ -41,9 +41,9 @@ Building and fixing production features on a multi-tenant EAM/ALM platform: REST
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[PriceWise](https://github.com/Niranjan-SE/PriceWise)** · [Live](https://price-wise-xi.vercel.app) | Compares live prices from Amazon and 10+ Indian retailers, stores history, and surfaces discount checks and buy advice. | Next.js, FastAPI, PostgreSQL, Gemini |
-| **[EchoChamber](https://github.com/Niranjan-SE/Echo-Chamber)** · [Live](https://echo-chamber-two-kappa.vercel.app) | Ingests Indian news RSS feeds, scores echo-chamber intensity, and supports article feeds, community voting and filters. | React, Node.js, Express, PostgreSQL, Gemini |
-| **[Smart Leads](https://github.com/Niranjan-SE/Smart-Leads-Dashboard)** · [Live](https://smart-leads-dashboard-gules.vercel.app) | Lead management with JWT auth, role-based access, filters, pagination and CSV export. | React, TypeScript, Express, MongoDB |
+| **[PriceWise](https://github.com/Niranjan-SE/PriceWise)** | Compares live prices from Amazon and 10+ Indian retailers, stores history, and surfaces discount checks and buy advice. | Next.js, FastAPI, PostgreSQL, Gemini |
+| **[EchoChamber](https://github.com/Niranjan-SE/Echo-Chamber)** | Ingests Indian news RSS feeds, scores echo-chamber intensity, and supports article feeds, community voting and filters. | React, Node.js, Express, PostgreSQL, Gemini |
+| **[Smart Leads](https://github.com/Niranjan-SE/Smart-Leads-Dashboard)** | Lead management with JWT auth, role-based access, filters, pagination and CSV export. | React, TypeScript, Express, MongoDB |
 
 ### Stack
 
