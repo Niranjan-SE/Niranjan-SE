@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Backend &amp; Full-Stack Developer</h2>
+  <h2>Full-Stack Developer</h2>
   <p>Java · Spring Boot · Node.js · React · PostgreSQL</p>
   <p>
     <a href="https://www.linkedin.com/in/niranjan-j-15399a28b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
