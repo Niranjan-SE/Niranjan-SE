@@ -1,6 +1,6 @@
 <div align="center">
-  <h2>Software Engineering Intern</h2>
-  <p>RIO BizSols · M.Sc. Software Systems, SKASC (2023–2028)</p>
+  <h2>Backend &amp; Full-Stack Developer</h2>
+  <p>Java · Spring Boot · Node.js · React · PostgreSQL</p>
   <p>
     <a href="https://www.linkedin.com/in/niranjan-j-15399a28b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://leetcode.com/u/va1wqP27AQ/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
