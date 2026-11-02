@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" role="img" aria-label="Currently">
-  <rect width="1200" height="148" rx="18" fill="#0F2744"/>
-  <rect x="0" y="0" width="8" height="148" rx="2" fill="#5EEAD4"/>
-  <text x="36" y="42" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#5EEAD4" letter-spacing="3.5">NOW</text>
-  <text x="36" y="74" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#F8FAFC">Software Engineering Intern · RIO BizSols Pvt. Ltd.</text>
-  <text x="36" y="104" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" fill="#B8C7D9">May 2026  present · production EAM/ALM APIs, PostgreSQL, report pipelines,</text>
-  <text x="36" y="126" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" fill="#B8C7D9">500,000+ tag search and Playwright tests in GitHub Actions</text>
-</svg>
