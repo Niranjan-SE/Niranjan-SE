@@ -17,20 +17,28 @@ M.Sc. Software Systems student with hands-on experience developing and deploying
 
 <p align="center">
   <a href="https://github.com/Niranjan-SE/PriceWise">
-    <img src="./assets/card-pricewise.png#gh-light-mode-only" alt="PriceWise" width="32%" />
-    <img src="./assets/card-pricewise-dark.png#gh-dark-mode-only" alt="PriceWise" width="32%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-pricewise-dark.png" />
+      <img src="./assets/card-pricewise.png" alt="PriceWise" width="32%" />
+    </picture>
   </a>
   <a href="https://github.com/Niranjan-SE/Echo-Chamber">
-    <img src="./assets/card-echo.png#gh-light-mode-only" alt="EchoChamber" width="32%" />
-    <img src="./assets/card-echo-dark.png#gh-dark-mode-only" alt="EchoChamber" width="32%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-echo-dark.png" />
+      <img src="./assets/card-echo.png" alt="EchoChamber" width="32%" />
+    </picture>
   </a>
   <a href="https://github.com/Niranjan-SE/Smart-Leads-Dashboard">
-    <img src="./assets/card-leads.png#gh-light-mode-only" alt="Smart Leads" width="32%" />
-    <img src="./assets/card-leads-dark.png#gh-dark-mode-only" alt="Smart Leads" width="32%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-leads-dark.png" />
+      <img src="./assets/card-leads.png" alt="Smart Leads" width="32%" />
+    </picture>
   </a>
 </p>
 
 **Stack**
 
-<img src="./assets/stack.png#gh-light-mode-only" alt="Languages, backend, frontend, data, ops and certification" width="100%" />
-<img src="./assets/stack-dark.png#gh-dark-mode-only" alt="Languages, backend, frontend, data, ops and certification" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.png" />
+  <img src="./assets/stack.png" alt="Languages, backend, frontend, data, ops and certification" width="100%" />
+</picture>
